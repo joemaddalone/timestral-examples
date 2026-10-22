@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# layoffs: re-downloaded by its fetch_data.py, so it is cache, not source
+layoffs-forecast/data/
+
+# subscriber-forecast/data/ is intentionally NOT ignored: its CSV is a fixed
+# snapshot committed with the repo, and it is the example's only input.

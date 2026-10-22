@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Local-only: captures the CSV from a dashboard that is not part of this repo,
+# so it cannot work on another machine. Never publish it; the committed CSV is
+# the shared artifact.
+fetch_data.py
+
+# NOTE: data/ is deliberately NOT ignored — subscribers.csv ships with the repo.

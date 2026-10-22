@@ -1,0 +1,13 @@
+{
+  "channel": "UCutKx7_WN6r2iduofUe7mlw",
+  "title": "Joe Maddalone",
+  "snapshot": 9840,
+  "synced_at": "2026-10-22T00:48:26.944Z",
+  "snapshot_day": "2026-10-19",
+  "days": 198,
+  "level_start": 6339,
+  "net_total": 3502,
+  "api_base": "http://localhost:5173",
+  "channel_api_base": "http://localhost:5173",
+  "fetched_at": "2026-10-22T00:53:00+00:00"
+}
